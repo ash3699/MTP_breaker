@@ -1,0 +1,12 @@
+encrypt, then MAC, is the correct order for secure authenticated encryption.############################################################################################################################ 
+if this is coffee, please bring me some tea; but if this is tea, please bring me some coffee. Abraham Lincoln########################################################################################### 
+the probability that we may fail in the struggle ought not to deter us from the support of a cause we believe to be just. Abraham Lincoln############################################################### 
+any one who consider arithmetical methods of producing random digits, is of course, in a state of sin. John von Neumann################################################################################# 
+we're seeing right now that a mass extinction can be caused by human beings. Elizabeth Kolbert########################################################################################################## 
+at a job interview, tell them you're willing to give 110 perecent. Unless the job is a statistician.#################################################################################################### 
+never put off till tomorrow what you can do the day after tomorrow just as well.######################################################################################################################## 
+when I was a kid, my parents moved a lot, but I always found them. Rod Dangerfield###################################################################################################################### 
+the cure for boredom is curiosity. There's no cure for curiosity. Dorothy Parker######################################################################################################################## 
+i'm killing time while I wait for life to shower me with meaning and happiness. Calvin and Hobbes####################################################################################################### 
+i have memorized this utterly useless piece of information long enough to pass a test question. Calvin and Hobbes####################################################################################### 
+Zero-knowledge interactive proof: whatever you could compute before you interacted with me and afterward are not different. Shafi Goldwasser############################################################
